@@ -1,0 +1,256 @@
+=000  00870cam a2200265 a 4500
+=001 5814527
+=005 20150319093508.0
+=008 061207s2007 enk 000 0 eng d
+=015  \\$aGBA6A4853$2bnb
+=020  \\$a9781861978400 (pbk.) :$c£8.99
+=020  \\$a9781861978400 (pbk.) :$c£8.99 
+=035  \\$a(WlAbNL)vtls003566633
+=035  \\$a(Uk)013625035
+=035  \\$a1516680
+=040  \\$aStDuBDS$beng$cStDuBDS$dWlAbNL$dUk
+=042  \\$aukscp04
+=082  04$a808.899206914$222=245  00$aAnother sky :bvoices of conscience from around the world /cedited by Lucy Popescu and Carole Seymour-Jones ; [foreword by Tom Stoppard].=260  \\$aaLondon :$bProfile,$c2007.=300  \\$aaxxviii, 275 p. ;$c20 cm=500  \\$aFormerly CIP.$5Uk =650  \0$aExiles' writings. 
+=650  \0aExiles$vLiterary collections.
+=700  1\$aPopescu, Lucy.
+=700  1\$aSeymour-Jones, Carole.
+
+
+=FMT	BK
+=LDR	cam a2200337 a 4500
+=001	013316327
+=003	Uk
+=005	20060112172419.0
+=008	050315s2005    ilua     b    001 0 eng  
+=010	\\$a2005007592
+=015	\\$aGBA588999 |2 bnb
+=016	7\$a 013316327 |2 Uk
+=020	\\$a0226121992 (hbk.) :$c£17.50
+=040	\\$a StDuBDS$beng$cStDuBDS$dUk
+=042	\\$$aukblsr
+=050	00$a QL751$b .C8825 2005
+=082	00$a590$2 22
+=100  1\$aCrump, Martha L.
+=245  10$aHeadless males make great lovers :$b& other unusual natural histories /$cMarty Crump ; with illustrations by Alan Crump.
+=260  \\$aChicago, Ill. ;$a London :$bUniversity of Chicago Press,$c 2005.
+=300  \\$a x, 199 p. :$bill. ;$c24 cm.
+=336  \\$a text$2rdacontent
+=337  \\$aunmediated$2rdamedia
+=338  \\$avolume$2rdacarrier
+=500  \\$aFormerly CIP.$5Uk
+=504  \\$a Includes bibliographical references (p. [179]-192) and index.
+=505  0\$aAin't Love Grand! -- The Mamas and the Papas -- Eat to Live and Live to Eat -- Don't Tread on Me -- Ya Don't Say!
+=650  \0$aAnimal behavior.
+=700  1\$aCrump, Alan.
+=852	41$a British Library$bDSC$jm05/.37161
+=852	41$a British Library$bHMNTS$jYK.2006.a.3664
+=SYS	013316327
+
+=LEADER 00000nam  2200000 a 4500 
+=003   IeDuTC 
+=005    20081219164339.0 
+=008    050411r20062005enk           000 0deng   
+=020	\\$a9780753820582 (pbk.) 
+=020	\\$a0753820587 (pbk.) 
+=038	\\$aUkLCURL 
+=049 	\\$a|jCU|k0716527585|lc 
+=100 1\$aMercer, Jeremy. 
+=245 10$aBooks, baguettes and bedbugs :$bthe Left Bank world of Shakespeare & Co /|cJeremy Mercer. 
+=260	\\$aLondon :$bPhoenix,$c2006. 
+=300	\\$a260 p. ;$c20 cm. 
+=500 	\\$aOriginally published: as Time was soft there. New York: St Martin's, 2005 and as Books, baguettes and bedbugs. London: Weidenfeld & Nicolson, 2005. 
+=600 10 $aMercer, Jeremy$xHomes and haunts$zFrance$zParis. 
+=610 20 $aShakespeare and Company (Paris, France : 1964- ) 
+=650  \0$aBooksellers and bookselling$zFrance$zParis$vBiography. 
+=650  \0$aBookstores$zFrance$zParis$xHistory$y20th century. 
+=700 1\$aMercer, Jeremy.$tTime was soft there.
+=935    IeDuTCb15307795 
+
+	
+=FMT	BK
+=LDR	     pam a2200289 a 4500
+=001	014236018
+=003	Uk
+=005	20090224171649.0
+=008	071029s2008    enka          000 0 eng d
+=015	\\$a GBA788996$2bnb
+=016	7\$a 014236018$2Uk
+=020	\\$a9781844005864 (pbk.) :$c£12.99
+=020	\\$a1844005860 (pbk.) :$c£12.99
+=035	\\$a(UkCU)4551276
+=038	\\$aUk
+=040	\\$aStDuBDS$beng$cStDuBDS$dUkCU$dUk
+=042	\\$aukscp
+=082	04$a158.1$2 22
+=100	1\$aStreet-Porter, Janet,$d1946-
+=245	10$aLife's too f***ing short :$b a guide to getting what you want out of life without wasting time, effort or money / $cJanet Street-Porter.
+=246	3\$aLife's too fucking short.
+=260	\\$aLondon :$bQuadrille,$c2008.
+=300	\\$a176 p. :$bill. ;$c25 cm.
+=336	\\$atext$2rdacontent
+=337	\\$aunmediated$2rdamedia
+=338	\\$avolume$2rdacarrier
+=500	\\$aFormerly CIP.$5Uk
+=650	\0$aSuccess.
+=852	41$aBritish Library$bHMNTS$jYK.2009.a.5593
+=SYS	014236018
+
+=FMT	BK
+=LDR	     pam a2200193 a 4500
+=001	015557478
+=003	Uk
+=005	20110720153814.0
+=008	100511s2010    enkc          000 p eng d
+=015	\\$aGBB063415$2bnb
+=016	\7$a015557478$2Uk
+=020	\\$a9781852248796 (pbk.) :$c£8.95
+=020	\\$a1852248793 (pbk.) :$c£8.95
+=040	\\$aStDuBDS$beng$cStDuBDS$dUk
+=042	\\$aukblcatcopy
+=082	04$a821.92080355$222
+=245	00$aTen new poets /$c edited by Bernardine Evaristo & Daljit Nagra.
+=246	3\$a10 new poets.
+=260	\\$aTarset :$bBloodaxe,$c2010.
+=300	\\$a126 p. :$bports. ;$c20 cm.
+=336	\\$atext$2rdacontent
+=337	\\$aunmediated$2rdamedia
+=338	\\$avolume$2rdacarrier
+=500	\\$aPublished in association with Spread the Word.
+=500	\\$aFormerly CIP.$5Uk
+=650	\0$aEnglish poetry$y21st century.
+=650	\0$aMulticulturalism$zGreat Britain$vPoetry.
+=700	1\$aEvaristo, Bernardine,$d1959-
+=700	1\$aNagra, Daljit.
+=710	2\$aSpread the Word (Organization : London, England).
+=EXP	\\$aX$d20110319
+=852	41$aBritish Library$bHMNTS$jYC.2011.a.10424
+=SYS	015557478
+
+=LEADER 00000nam  2200000   4500 
+=003    IeDuTC 
+=005    20070627124525.0 
+=008    050115s2005    enk    e      000 0 eng   
+=015 	\\$2bnb|aGBA514087 
+=020 	\\$a1845130928 (hbk.) 
+=035	\\$a(UkOxU)16025227 
+=035	\\$a(UkLCURL)0716025227 
+=038	\\$aUk 
+=040	\\$aStDuBDS 
+=049	\\$jCU$k0716025227$lb 
+=082	04$a417.2$222 
+=100	1\ $aWajnryb, Ruth.
+=245	10$aC U next Tuesday :$ba good look at bad language /$cRuth Wajnryb. 
+=260	\\$aLondon :$bAurum,$c2005. 
+=300	\\$axiii, 210 p. ;$c23 cm. 
+=504	\\$aIncludes bibliographical references and index. 
+=650	\0$aSlang. 
+=650	\0$aWords, Obscene. 
+=650	\0$aSwearing. 
+=935	\\$aIeDuTCb14765354 
+
+=LEADER 00000nam  2200000 a 4500 
+=003    UkLCURL 
+=008    100811s2010    enka          000 0 eng   
+=015	\\$aGBB099378|2bnb 
+=016	\\$a015630634|2Uk 
+=020 	\\$a9781857596380 (pbk.) 
+=020	\\$a1857596382 (pbk.) 
+=035	\\$a(OCoLC)613434460 
+=035	\\$a(StSaUL)$b16945530 
+=038	\\$aOCoLC 
+=040	\\$aUKM$cUKM$dBTCTA$dYDXCP$dCDX$dStSaUL 
+=049	\\$jCU$k31b16945530$lo 
+=059	\\$aBibliog$eA35:14 
+=082	04$a027.5411$222 
+=100	1\$aBrown, Iain Gordon. 
+=245	10$aRax me that buik :$bhighlights from the collections of the National Library of Scotland /$cIain Gordon Brown. 
+=260	\\$aLondon :$bScala Publishers Ltd.,$c2010. 
+=300	\\$a144 p. :$bill. (chiefly col.) ;$c28 cm. 
+=500	\\$aIllustrated on lining papers. 
+=610	20$aNational Library of Scotland. 
+=650	\0$aLibrary materials$zScotland. 
+=650	\0$aNational libraries$xCollection development. 
+
+=LEADER 00000nam  2200349Ia 4500 
+=001    123375488 
+=008    070413s2007    enka          000 0 eng   
+=020	\\$a9781846680335|q(pbk.) 
+=020	\\$a1846680336|q(pbk.) 
+035	\\$a(OCoLC)123375488 
+040	\\$aUKM$cUKM$dYDXCP$dEUW$dUtOrBLW 
+100	1\$aGould, Tony.$0nb2008001185 
+245	10$aCures & curiosities :$binside the Wellcome Library /$ccompiled & edited by Tony Gould; foreword by Sebastian 
+       Faulks. 
+260	\\$aLondon :$bProfile,$c2007. 
+300	\\$axiii, 226 pages :$billustrations ;$c23 cm.
+336	\\$atext$btxt$2rdacontent 
+337	\\$aunmediated$bn$2rdamedia 
+338	\\$avolume$bnc$2rdacarrier 
+599	\\$agnd 
+610	20$aWellcome Library.$0no2006065766 
+650	\0$aMedicine$xHistory.$0sh 85083080 
+650	\7$aMedical libraries.$2fast$0(OCoLC)fst01014324 
+650	\7$aMedicine$xLibrary resources.$2fast|0(OCoLC)fst01014993 
+650	\7$aMedicine.$2fast|0(OCoLC)fst01014893 
+655	\7$aEssays.$2rbgenr 
+698	\\$aYHY.431 
+710	2\$aWellcome Library.$0no2006065766 
+907	\\$a.b16595026 
+998	\\$ahomc$awhml|b10-07-07$cm$da$e-$feng$genk$h0$i3 
+998	\\$astax$awhml$b10-07-07$cm$da$e-$feng$genk$h0$i1 
+998	\\$awhml$b10-07-07$cm$da$e-$feng$genk$h0$i1
+
+=LDR  01103cam a2200277 a 4500
+=001  15074255
+=005  20100304151806.0
+=008  071107s2008\\\\nyu\\\\\\\\\\\000\0\eng\\
+=010  \\$a  2007046163
+=020  \\$a9780399533983
+=040  \\$aDLC$cDLC$dDLC
+=050  00$aPE1617.O94$bS54 2008
+=082  00$a423/.028$222
+=100  1\$aShea, Ammon.
+=245  10$aReading the OED :$bone man, one year, 21,730 pages /$cAmmon Shea.
+=246  3\$aReading the Oxford English Dictionary.
+=250  \\$a1st ed.
+=260  \\$aNew York :$bPenguin Group,$c2008.
+=300  \\$axvi, 223 p. ;$c21 cm.
+=500  \\$a"A Perigee Book."
+=630  00$aOxford English dictionary.
+=650  \0$aEncyclopedias and dictionaries$xHistory and criticism.
+=650  \0$aEnglish language$xLexicography.
+=650  \0$aEnglish language$xEtymology.
+=906  \\$a7$bcbc$corignew$d1$eecip$f20$gy-gencatlg
+=925  0\$aacquire$b2 shelf copies$xpolicy default
+=955  \\$alh46 2007-11-07$ilh46 2007-11-07 (teleworking)$elh46 2007-11-07 to Dewey$aaa11 2007-11-20$aps14 2008-06-27 bk rec'd, to CIP ver.$alg00 2008-07-18;$flg13 2008-08-06 to SL;$glg13 2008-08-06 to BCCD$trc11 2010-03-04 copy 2 added
+
+=LDR  01486cam a22003734a 4500
+=001  16302020
+=005  20100830171755.0
+=008  931221s1993\\\\enk\\\\\\b\\\\001\0\eng\c
+=010  \\$a   93246157 
+=015  \\$aGB93-45578
+=035  \\$a(OCoLC)ocm29670782
+=040  \\$aMoSU-L$cSLU$dDLC$dUKM$dWCL$dZBL$dBTCTA$dUKV3G$dNLGGC$dCUY$dAU@$dDLC
+=042  \\$alcnccp
+=043  \\$ae-uk-en
+=082  04$a344.2071409$220
+=084  \\$a86.15$2bcl
+=050  00$aKD620$b.J83 1993
+=100  1\$aSainty, John Christopher.
+=245  04$aThe judges of England, 1272-1990 :$ba list of judges of the superior courts /$ccompiled for the Selden Society by Sir John Sainty.
+=260  \\$aLondon :$bThe Society,$c1993.
+=300  \\$axix, 284 p. ;$c26 cm.
+=490  1\$aSupplementary series / Selden Society ;$vv. 10
+=504  \\$aIncludes bibliographical references (p. xiii-xv) and index.
+=650  \0$aJudges$zEngland$xRegisters.
+=650  17$aRechterlijke organisatie.$2gtt
+=650  17$aHoogste rechtscolleges.$2gtt
+=653  0\$aJudges$aHistory
+=653  0\$aEngland
+=710  2\$aSelden Society.
+=830  \0$aSupplementary series (Selden Society) ;$vv. 10.
+=906  \\$a7$bcbc$corignew$d2$encip$f20$gy-gencatlg
+=923  \\$d20100625$n280719$sWilliam S. Hein & Co, Inc.
+=925  0\$aacquire$b2 shelf copies: Copy 1=LL RBR; Copy 2=shelf$xMWS 2010-08-26
+=955  \\$bhh12 2010-06-25 z-processor, Copy ON ORDER for K. Carroll, Law$ahh15 2010-08-13 copy 1, v.10  to LAW$ixg04 2010-08-30 to LL
